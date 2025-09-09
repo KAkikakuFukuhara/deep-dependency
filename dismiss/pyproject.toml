@@ -6,7 +6,7 @@ authors = ["Kenta Fukuhara <105337464+KAkikakuFukuhara@users.noreply.github.com>
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 suba = {path = "pkgs/suba", develop = true}
 subb = {path = "pkgs/subb", develop = true}
 
